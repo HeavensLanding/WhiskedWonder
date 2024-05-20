@@ -46,3 +46,13 @@ h4{
     font-size: medium;
     font-family: 'Courier New', Courier, monospace,
 }
+
+.header{
+    padding: 5px;
+    border-radius: 5px;
+    height: fit-content;
+    width: fit-content;
+    background-color: rgba(96,28,15,255);
+    color: white;
+    font-family: 'Courier New', Courier, monospace,
+}
