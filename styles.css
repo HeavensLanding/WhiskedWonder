@@ -50,6 +50,7 @@ h4{
 .header{
     padding: 5px;
     border-radius: 5px;
+    margin: 5px;
     height: fit-content;
     width: fit-content;
     background-color: rgba(96,28,15,255);
