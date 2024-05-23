@@ -80,3 +80,7 @@ h4{
     color:#ad371f;
     font-weight: bolder;
 }
+
+.max-snicker-pic{
+    max-height:300px;
+}
