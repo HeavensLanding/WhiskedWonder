@@ -58,6 +58,25 @@ h4{
     font-family: 'Courier New', Courier, monospace,
 }
 
+.background-color {
+    background-color: rgb(231, 213, 180);
+}
+
 .btn-primary{
-    background-color: #e9eeb8 !important;
+    background-color: rgba(96,28,15,255) !important;
+}
+
+.max-home-image {
+    max-height: 300px;
+}
+
+.custom-link-color {
+    font-weight: bolder;
+    color: rgb(223, 74, 47);
+    
+}
+
+.custom-link-color:hover {
+    color:#ad371f;
+    font-weight: bolder;
 }
