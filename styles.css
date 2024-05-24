@@ -64,6 +64,8 @@ h4{
 
 .btn-primary{
     background-color: rgba(96,28,15,255) !important;
+    margin: 5px;
+    margin-left: 0px;
 }
 
 .max-home-image {
